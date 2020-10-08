@@ -1,0 +1,13 @@
+C:\Users\skott\Desktop\Projects\WANDIO\eMobile\eMobile.Services\bin\Debug\netstandard2.0\eMobile.Services.deps.json
+C:\Users\skott\Desktop\Projects\WANDIO\eMobile\eMobile.Services\bin\Debug\netstandard2.0\eMobile.Services.dll
+C:\Users\skott\Desktop\Projects\WANDIO\eMobile\eMobile.Services\bin\Debug\netstandard2.0\eMobile.Services.pdb
+C:\Users\skott\Desktop\Projects\WANDIO\eMobile\eMobile.Services\obj\Debug\netstandard2.0\eMobile.Services.AssemblyInfoInputs.cache
+C:\Users\skott\Desktop\Projects\WANDIO\eMobile\eMobile.Services\obj\Debug\netstandard2.0\eMobile.Services.AssemblyInfo.cs
+C:\Users\skott\Desktop\Projects\WANDIO\eMobile\eMobile.Services\obj\Debug\netstandard2.0\eMobile.Services.dll
+C:\Users\skott\Desktop\Projects\WANDIO\eMobile\eMobile.Services\obj\Debug\netstandard2.0\eMobile.Services.pdb
+C:\Users\skott\Desktop\Projects\WANDIO\eMobile\eMobile.Services\bin\Debug\netstandard2.0\eMobile.Domain.dll
+C:\Users\skott\Desktop\Projects\WANDIO\eMobile\eMobile.Services\bin\Debug\netstandard2.0\eMobile.Models.dll
+C:\Users\skott\Desktop\Projects\WANDIO\eMobile\eMobile.Services\bin\Debug\netstandard2.0\eMobile.Domain.pdb
+C:\Users\skott\Desktop\Projects\WANDIO\eMobile\eMobile.Services\bin\Debug\netstandard2.0\eMobile.Models.pdb
+C:\Users\skott\Desktop\Projects\WANDIO\eMobile\eMobile.Services\obj\Debug\netstandard2.0\eMobile.Services.csprojAssemblyReference.cache
+C:\Users\skott\Desktop\Projects\WANDIO\eMobile\eMobile.Services\obj\Debug\netstandard2.0\eMobile.Services.csproj.CopyComplete

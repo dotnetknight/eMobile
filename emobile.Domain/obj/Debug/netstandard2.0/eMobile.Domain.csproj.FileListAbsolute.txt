@@ -1,0 +1,8 @@
+C:\Users\skott\Desktop\Projects\WANDIO\eMobile\emobile.Domain\bin\Debug\netstandard2.0\eMobile.Domain.deps.json
+C:\Users\skott\Desktop\Projects\WANDIO\eMobile\emobile.Domain\bin\Debug\netstandard2.0\eMobile.Domain.dll
+C:\Users\skott\Desktop\Projects\WANDIO\eMobile\emobile.Domain\obj\Debug\netstandard2.0\eMobile.Domain.AssemblyInfoInputs.cache
+C:\Users\skott\Desktop\Projects\WANDIO\eMobile\emobile.Domain\obj\Debug\netstandard2.0\eMobile.Domain.AssemblyInfo.cs
+C:\Users\skott\Desktop\Projects\WANDIO\eMobile\emobile.Domain\bin\Debug\netstandard2.0\eMobile.Domain.pdb
+C:\Users\skott\Desktop\Projects\WANDIO\eMobile\emobile.Domain\obj\Debug\netstandard2.0\eMobile.Domain.dll
+C:\Users\skott\Desktop\Projects\WANDIO\eMobile\emobile.Domain\obj\Debug\netstandard2.0\eMobile.Domain.pdb
+C:\Users\skott\Desktop\Projects\WANDIO\eMobile\emobile.Domain\obj\Debug\netstandard2.0\eMobile.Domain.csprojAssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\skott\Desktop\Projects\WANDIO\eMobile\CQRS\bin\Debug\netstandard2.0\CQRS.deps.json
+C:\Users\skott\Desktop\Projects\WANDIO\eMobile\CQRS\bin\Debug\netstandard2.0\CQRS.dll
+C:\Users\skott\Desktop\Projects\WANDIO\eMobile\CQRS\obj\Debug\netstandard2.0\CQRS.csprojAssemblyReference.cache
+C:\Users\skott\Desktop\Projects\WANDIO\eMobile\CQRS\obj\Debug\netstandard2.0\CQRS.AssemblyInfoInputs.cache
+C:\Users\skott\Desktop\Projects\WANDIO\eMobile\CQRS\obj\Debug\netstandard2.0\CQRS.AssemblyInfo.cs
+C:\Users\skott\Desktop\Projects\WANDIO\eMobile\CQRS\bin\Debug\netstandard2.0\CQRS.pdb
+C:\Users\skott\Desktop\Projects\WANDIO\eMobile\CQRS\bin\Debug\netstandard2.0\eMobile.Domain.dll
+C:\Users\skott\Desktop\Projects\WANDIO\eMobile\CQRS\bin\Debug\netstandard2.0\eMobile.Respository.dll
+C:\Users\skott\Desktop\Projects\WANDIO\eMobile\CQRS\bin\Debug\netstandard2.0\eMobile.Respository.pdb
+C:\Users\skott\Desktop\Projects\WANDIO\eMobile\CQRS\bin\Debug\netstandard2.0\eMobile.Domain.pdb
+C:\Users\skott\Desktop\Projects\WANDIO\eMobile\CQRS\obj\Debug\netstandard2.0\CQRS.csproj.CopyComplete
+C:\Users\skott\Desktop\Projects\WANDIO\eMobile\CQRS\obj\Debug\netstandard2.0\CQRS.dll
+C:\Users\skott\Desktop\Projects\WANDIO\eMobile\CQRS\obj\Debug\netstandard2.0\CQRS.pdb
+C:\Users\skott\Desktop\Projects\WANDIO\eMobile\CQRS\bin\Debug\netstandard2.0\eMobile.Models.dll
+C:\Users\skott\Desktop\Projects\WANDIO\eMobile\CQRS\bin\Debug\netstandard2.0\eMobile.Models.pdb

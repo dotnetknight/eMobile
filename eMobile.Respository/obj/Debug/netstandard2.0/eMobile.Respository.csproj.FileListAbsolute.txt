@@ -1,0 +1,11 @@
+C:\Users\skott\Desktop\Projects\WANDIO\eMobile\eMobile.Respository\bin\Debug\netstandard2.0\eMobile.Respository.deps.json
+C:\Users\skott\Desktop\Projects\WANDIO\eMobile\eMobile.Respository\bin\Debug\netstandard2.0\eMobile.Respository.dll
+C:\Users\skott\Desktop\Projects\WANDIO\eMobile\eMobile.Respository\obj\Debug\netstandard2.0\eMobile.Respository.csprojAssemblyReference.cache
+C:\Users\skott\Desktop\Projects\WANDIO\eMobile\eMobile.Respository\obj\Debug\netstandard2.0\eMobile.Respository.AssemblyInfoInputs.cache
+C:\Users\skott\Desktop\Projects\WANDIO\eMobile\eMobile.Respository\obj\Debug\netstandard2.0\eMobile.Respository.AssemblyInfo.cs
+C:\Users\skott\Desktop\Projects\WANDIO\eMobile\eMobile.Respository\bin\Debug\netstandard2.0\eMobile.Respository.pdb
+C:\Users\skott\Desktop\Projects\WANDIO\eMobile\eMobile.Respository\bin\Debug\netstandard2.0\eMobile.Domain.dll
+C:\Users\skott\Desktop\Projects\WANDIO\eMobile\eMobile.Respository\bin\Debug\netstandard2.0\eMobile.Domain.pdb
+C:\Users\skott\Desktop\Projects\WANDIO\eMobile\eMobile.Respository\obj\Debug\netstandard2.0\eMobile.Respository.csproj.CopyComplete
+C:\Users\skott\Desktop\Projects\WANDIO\eMobile\eMobile.Respository\obj\Debug\netstandard2.0\eMobile.Respository.dll
+C:\Users\skott\Desktop\Projects\WANDIO\eMobile\eMobile.Respository\obj\Debug\netstandard2.0\eMobile.Respository.pdb
